@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IndiVenom
-- 👀 I’m interested in Data Science, Data Analysis, Mashine Learning
-- 🌱 I’m currently learning ML, DS, DL, Big Data and other related related things.
+- 👀 Interested in Data Science, Data Analyst, Mashine Learning, Business Analyst Roles
+- 🌱 I’m currently learning ML, DS, DL, SQL and other related related things.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me through my eamil which is mayankkumargola91@outlook.com
 
